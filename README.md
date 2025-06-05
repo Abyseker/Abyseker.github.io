@@ -8,3 +8,9 @@
 |Pit|属于CC-NBS-LRR类抗病基因，能够特异性识别稻瘟病菌（Magnaporthe grisea）并激活植物免疫反应，导致超敏反应（HR），从而赋予水稻对稻瘟病的抗性。|LRR结构域|SNP-错义突变|对表型无显著影响，转基因植株仍表现为抗性（92%抗性）。||2|MAB 抗病性|CHR1|作系统01g0149500|0|
 |Pit|属于CC-NBS-LRR类抗病基因，能够特异性识别稻瘟病菌（Magnaporthe grisea）并激活植物免疫反应，导致超敏反应（HR），从而赋予水稻对稻瘟病的抗性。|Pit基因上游256 bp处插入LTR逆转录转座子Renovator（含3'-LTR）。|逆转录转座子插入|使原本不具功能的Pit等位基因恢复抗性（78%抗性）。|显著上调|2|blast disease resistance|chr1|作系统01g0149500|0|
 “`
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
